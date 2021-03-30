@@ -1,27 +1,41 @@
-# AppContaBancaria
+# BancoDigital
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+Esse é um projeto desenvolvido no curso da Gama Academy - We Can Code Academy.
+O Objetivo era desenvolver uma aplicação FrontEnd semelhante a uma conta de banco, com cadastro e login,utilizando Angular.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Features
+[Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+[JsonPlaceHolder](https://jsonplaceholder.typicode.com/)
 
-## Running unit tests
+Bootstrap
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Getting start 
+1- Clone este repositorio usando o link https://github.com/AnaCarolinaFortunato/BancoDigital.git
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Getting start with Bootstrap
+Instalando Bootstrap via npm:
+
+`npm install bootstrap`
+
+Instalando Bootstrap via Yarn:
+
+`yarn add bootstrap`
+
+## Getting start  with Angular
+1-Instalando o Angular CLI:
+
+`npm install -g @angular/cli`
+
+2-Na pasta do projeto, iniciar a aplicação:
+
+   `ng serve --open`
+
+
