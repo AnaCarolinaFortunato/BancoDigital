@@ -15,6 +15,7 @@ import { UsuarioComponent } from './usuario/usuario.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import {FormsModule} from '@angular/forms';
 import { ConfirmacaoComponent } from './cadastro/confirmacao/confirmacao.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { ConfirmacaoComponent } from './cadastro/confirmacao/confirmacao.compone
     HttpClientModule,
     ReactiveFormsModule,
     FormsModule,
+    NgbModule,
     
     
    
